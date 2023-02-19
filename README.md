@@ -1,1 +1,3 @@
-# 2023_godaddy_kaggle
+# GoDaddy - Microbusiness Density Forecasting
+
+[Kaggle](https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting)
